@@ -1,0 +1,20 @@
+vagrant/shoe
+
+This is the vagrant/shoe module.
+
+A small vagrant for the ywesee shoe project.
+
+License
+-------
+GPL-V2
+
+
+Contact
+-------
+ngiger@ywesee.com
+
+
+Support
+-------
+
+Please log tickets and issues at our "Vagrant shoe":https://github.com/ngiger/vagrant-shoe
