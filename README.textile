@@ -2,7 +2,7 @@ vagrant/shoe
 
 This is the vagrant/shoe module.
 
-A small vagrant for the ywesee shoe project.
+A small vagrant for the ywesee "shoe":https://github.com/zdavatz/shoe project.
 
 License
 -------
